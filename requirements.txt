@@ -1,0 +1,4 @@
+gymnasium>=0.28
+torch>=2.0
+numpy>=1.21
+matplotlib>=3.4
